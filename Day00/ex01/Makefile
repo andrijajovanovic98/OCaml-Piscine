@@ -1,4 +1,4 @@
-NAME        = ft_test_sign
+NAME        = ft_countdown
 OCAML       = ocamlopt
 SRC         = $(NAME).ml
 OUT         = $(NAME)
