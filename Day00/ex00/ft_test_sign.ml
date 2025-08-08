@@ -4,6 +4,7 @@ let ft_test_sign n =
   else
     print_endline "positive"
 
+(* TEST *)
 let () =
   ft_test_sign 42;
   ft_test_sign 0;

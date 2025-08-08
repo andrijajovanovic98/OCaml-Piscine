@@ -1,4 +1,4 @@
-NAME        = ft_countdown
+NAME        = ft_print_rev
 OCAML       = ocamlopt
 SRC         = $(NAME).ml
 OUT         = $(NAME)
